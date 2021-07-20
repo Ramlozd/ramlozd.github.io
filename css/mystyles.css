@@ -25,9 +25,19 @@ body{
 }
 
 .menu{
-
+	border-left: 1px solid black;
+    height: 100vh;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+  
+    
 }
 
+.menu-text{
+	    padding: 30px 50px 49px 1px;
+    position: fixed;
+}
 
 .rotate {
 
