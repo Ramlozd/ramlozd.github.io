@@ -1,0 +1,25 @@
+body{
+	background-color:  #c5c3c3;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;900&display=swap');
+
+.main-title{
+	font-size: 85px;
+	font-weight: 900;
+	letter-spacing: -4px;
+	line-height: 1;
+}
+
+
+
+.description{
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+
+.container_1{
+	padding: 0 10px;
+}
